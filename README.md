@@ -1,7 +1,2 @@
-# DAPLink HDK
-[![CC by SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-![3d photo of the atmega32u4 breakout board](img/daplink_hdk.png)
-
-## Introduction
-This board is a hardware development kit created to make adding new HICs and features easier for the DAPLink firmware dev team.
+# We've moved. 
+In an effort to truly own and be in full control of our clients and personal information, source code, and documentation we've moved to a self-hosted Git server. You can find this project here: [git.everydaydev.io](https://git.everydaydev.io/opensource/daplink-hdk)
